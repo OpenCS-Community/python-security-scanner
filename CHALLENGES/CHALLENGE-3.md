@@ -1,13 +1,12 @@
 # OpenCS Challenge: Cybersecurity Challenge: Build a Security Scanner
 
 - Challenge ID: 3
-- Topic: Cybersecurity, Python, Ethical Hacking, Network Security, and Vulnerability Assessment.
 - Created by: OpenCS Community member
 - Deadline: 2026-10-30T16:00:00.000Z
 - Status: open
 - Submissions: 0
 
-## Challenge description
+## Task
 Build a Python-based security scanner that helps identify common security weaknesses in a system or website you own or have explicit permission to test.
 
 Requirements:
@@ -24,7 +23,7 @@ Safety: Only test systems you own or are explicitly authorized to assess. Do not
 Language: Python
 Libraries: requests, socket, ssl, re, pathlib, bandit, pytest
 
-## Participants and leaderboard
+## Leaderboard
 
 No solutions submitted yet.
 
